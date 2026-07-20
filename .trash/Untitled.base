@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+  - type: table
+    name: View
+    order:
+      - file.name
+      - buy-floor
+      - ceiling
+      - company
+      - date
+      - floor
+      - exchange
+    limit: 11
