@@ -8,7 +8,7 @@ verdict-date: 2026-07-13
 last-review: 2026-07-14
 position: 100 shares @ 20.53 avg cost
 stop-level: 19.5
-buy-floor: Not Yet derived
+buy-floor: "17.00"
 ceiling: 23.50-24.00
 next-trigger: quarterly leisure finance cost + retail margin sustainability
 tags:
