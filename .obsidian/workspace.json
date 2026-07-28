@@ -11,14 +11,10 @@
             "id": "ac0e1cb9f8f587aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research/JKH - John Keells Holdings Research File.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JKH - John Keells Holdings Research File"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -185,6 +181,7 @@
   },
   "active": "ac0e1cb9f8f587aa",
   "lastOpenFiles": [
+    "research/JKH - John Keells Holdings Research File.md",
     "research/ALUM_-_Alumex_PLC_Research_File.md",
     "research/DIPD_-_Dipped_Products_Research_File.md",
     "research/SUN - Sunshine Holdings Research File.md",
@@ -192,7 +189,6 @@
     "system/Layer 4 - Floor Ceiling Method.md",
     "research/JINS - Janashakthi Insurance Research File.md",
     "research/JXG-research-file.md",
-    "research/JKH - John Keells Holdings Research File.md",
     "research/UAL - Union Assurance Research File.md",
     "research/AAIC - Softlogic Life Research File.md",
     "system/five_layer_system_procedure.md",
