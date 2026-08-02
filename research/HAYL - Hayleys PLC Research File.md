@@ -30,16 +30,16 @@ Two entities matter for reading these numbers correctly, and they diverge sharpl
 
 **The holdco structure is genuinely closer to JXG than to JKH or SUN.** Hayleys owns controlling stakes in eight separately-listed CSE companies through the sector structure:
 
-| Listed subsidiary | Ticker | Hayleys effective stake* |
-|---|---|---|
-| Dipped Products PLC | DIPD.N0000 | 55.78% |
-| Haycarb PLC | HAYC.N0000 | 67.73% |
-| Hayleys Advantis Ltd | — | 94.04% |
-| Singer (Sri Lanka) PLC | SINS.N0000 | 86.45% |
-| Hayleys Fabric PLC | MGT.N0000 | 63.04% |
-| Amaya Leisure PLC | AHUN.N0000 | 66.59% |
-| Alumex PLC | ALUM.N0000 | 57.30% |
-| The Kingsbury PLC | KHL.N0000 | 57.57% |
+| Listed subsidiary      | Ticker     | Hayleys effective stake* |
+| ---------------------- | ---------- | ------------------------ |
+| Dipped Products PLC    | DIPD.N0000 | 55.78%                   |
+| Haycarb PLC            | HAYC.N0000 | 67.73%                   |
+| Hayleys Advantis Ltd   | —          | 94.04%                   |
+| Singer (Sri Lanka) PLC | SINS.N0000 | 86.45%                   |
+| Hayleys Fabric PLC     | MGT.N0000  | 63.04%                   |
+| Amaya Leisure PLC      | AHUN.N0000 | 66.59%                   |
+| Alumex PLC             | ALUM.N0000 | 57.30%                   |
+| The Kingsbury PLC      | SERV.N0000 | 57.57%                   |
 
 *Derived as 100% − NCI% from Note 39 (Principal Subsidiaries with Material Non-Controlling Interests).
 
