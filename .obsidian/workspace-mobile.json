@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/SERV - The Kingsbury PLC Research File.md",
+                "file": "research/SINS - Singer Sri Lanka Research File.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SERV - The Kingsbury PLC Research File"
+              "title": "SINS - Singer Sri Lanka Research File"
             }
           }
         ]
@@ -168,6 +168,7 @@
   },
   "active": "2ac8421bf1e8a1d1",
   "lastOpenFiles": [
+    "research/SERV - The Kingsbury PLC Research File.md",
     "research/SINS - Singer Sri Lanka Research File.md",
     "research/SUN - Sunshine Holdings Research File.md",
     "daily tasks/Daily Market Checklist - 2026-07-13.md",
