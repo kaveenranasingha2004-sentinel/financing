@@ -7,7 +7,7 @@ status: HOLD — asset/book-anchored floor derived; two named risks confirmed li
 verdict-date: 2026-07-13
 last-review: 2026-07-28
 position: 100 shares @ 20.53 avg cost
-stop-level: 19.5
+stop-level: n/a (no position)
 buy-floor: "17.00"
 second-tranche: "15.30"
 ceiling: 23.50-24.00
