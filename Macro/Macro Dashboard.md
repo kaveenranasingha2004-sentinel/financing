@@ -1,7 +1,7 @@
 ---
 type: macro-dashboard
 status: living document — updated in place, not appended as dated log entries
-last-updated: 2026-08-12
+last-updated: 2026-08-12 (SSL morning summary pass)
 tags: [investing, cse, macro, dashboard]
 ---
 
@@ -35,11 +35,13 @@ tags: [investing, cse, macro, dashboard]
 | Date | Reading | Note |
 |---|---|---|
 | 06-Aug-2026 | 335.55/335.60 (TT) | Prior baseline |
-| 10-Aug-2026 | 330.9/339.9 (TT) | Wider spread than 06-Aug, treated as unconverged |
-| 11-Aug-2026 | CBSL selling 339.58 (down from 339.94) | First sign of easing in the CBSL indicative rate |
+| 10-Aug-2026 | 330.9/339.9 (TT) | Wide spread |
+| 11-Aug-2026 | 330.3/339.6 (TT); CBSL selling 339.58 | TT spread stayed wide — see note below |
 | **12-Aug-2026** | **334.50/334.60 spot close, "stronger," bond yields steady** | **Third consecutive session pointing the same direction** |
 
-**Upgraded read (12-Aug):** three sessions in a row now show LKR strengthening, and — unlike the 10-Aug print — this one comes with two independent supporting mechanisms rather than an unexplained spread: (1) worker remittances +11.5% YoY to US$777.6mn in July, +21.4% YTD to US$5,382.4mn (CBSL data); (2) the previously-reported 8-week streak of foreign bond buying (~$216.7mn net). Worth treating this as **a trend forming**, not yet a confirmed structural turn — still watch whether the spread tightens back to something like the 06-Aug level, and whether remittance growth holds into August.
+**Correction to prior read:** the 10-Aug and 11-Aug TT buying/selling quotes (~9-point spread) are retail bank rates, structurally wider than the interbank spot or CBSL indicative figures the news wires quote (334.50/60 spot, 339.58 indicative selling). Flagging the TT spread as "unconverged" was likely comparing two different instruments rather than catching a real inconsistency — direction agrees across both series (LKR firm-to-strengthening), so this doesn't change the trend read below.
+
+**Upgraded read (12-Aug):** three sessions in a row now show LKR strengthening, backed by two independent supporting mechanisms: (1) worker remittances +11.5% YoY to US$777.6mn in July, +21.4% YTD to US$5,382.4mn (CBSL data); (2) a previously-reported 8-week streak of foreign bond buying (~$216.7mn net). Treat as **a trend forming**, not yet a confirmed structural turn.
 
 **Relevance:** LKR strength/weakness matters directly to JKH (CODSL's USD-denominated term loan — see JKH file §F, the 315→337 move already produced a Rs. 3.72bn exchange loss in Q1 FY26/27; a sustained reversal would work in the opposite direction) and to any exporter-facing name in the queue (ALUM's export mix, DIPD/HAYC's foreign operations).
 
@@ -49,17 +51,9 @@ Renewed strike escalation late July, followed by a pause; Iran-Oman diplomatic t
 
 **Relevance:** JKH Transportation segment (LMS bunkering, +223% EBITDA this year, explicitly a war-windfall benefit — see JKH file §F) is the most direct vault exposure; if this escalation lean holds, expect the tailwind to strengthen, not unwind, near-term. Tourism arrivals (also JKH-relevant) carry a related but distinct falsifier — see JKH file for the −9% Q1 vs −1.8% H1-aggregate reconciliation, and note the first hard August data point below (§9).
 
-## 5. Aggregate market earnings (new line, 11-Aug-2026)
+## 5. Aggregate market earnings — RETRACTED, source data unreliable
 
-Cumulative net profit attributable to shareholders, market-wide (SenFin):
-
-| Quarter | Net profit attributable (Bn) |
-|---|---|
-| Apr–Jun 2025 | ~37 |
-| Jan–Mar 2026 | ~64 |
-| Apr–Jun 2026 | ~43 |
-
-**−32% QoQ, +15% YoY.** Useful only as broad context for whether an individual name's YoY growth (e.g. SINS's +44% EPS this quarter, JKH's Q1 read) is running ahead of or behind the market's own trajectory — not attributable to any single held or watchlisted name on its own.
+**12-Aug update: this metric is unusable pending primary confirmation.** The 11-Aug SenFin digest showed cumulative net profit attributable to shareholders as Apr–Jun 2025 ≈37bn → Jan–Mar 2026 ≈64bn → Apr–Jun 2026 ≈43bn ("−32% QoQ, +15% YoY"). The 12-Aug SenFin card, same three quarters, showed ≈69bn → ≈74bn → ≈49bn ("−35% QoQ, **−30% YoY**") — the absolute bars nearly doubled and the YoY conclusion flipped sign between two consecutive daily publications from the same source. This is a more serious version of the disclosure-quality pattern already logged in the vault (SINS's Cyclone Ditwah contradiction, the 10-Aug ASPI/S&P20 mislabel): a headline conclusion reversing polarity, not just a mislabeled line. **Do not use either figure for anything, including casual context, until checked against a primary CSE source.**
 
 ## 6. $715mn forex-data-integrity thread — unresolved
 
@@ -77,13 +71,16 @@ Early August (1–6 Aug): 42,810 arrivals vs 46,541 the same six days last year 
 
 CBSL data (via Daily FT, 11-Aug): finance-company sector total assets +41% YoY to Rs. 3.2tn as at June 2026, driven by lending +47.8% YoY. Relevant as broad sector context for SINS's Financial Services segment (captive-lender arm, PBT +72% FY26, funding cost accelerating — see SINS file §7/§9): the credit expansion SINS is riding appears to be a sector-wide phenomenon, not company-specific aggression. Does not resolve the still-missing Singer Finance NPL ratio (SINS file's standing #1 open item) — sector growth this fast is exactly the environment where credit quality should be watched hardest, not assumed benign.
 
-## 10. Disclosure-quality flag — SenFin digest, 11-Aug-2026
+## 10. Disclosure-quality flags — SenFin digest, running list
 
-The 11-Aug SenFin news digest reported ASPI "closed lower... down by 0.04%" on 10-Aug. The 10-Aug SenFin Daily Report itself shows ASPI **up** 0.22% to the same closing value (21,417.47/21,417.5) — the −0.04% figure is actually the S&P SL20's change, mislabeled as ASPI's. Same category of error as the SINS Cyclone Ditwah contradiction and the DIPD/HAYC price-data-quality issues already logged in the vault: cross-check this source's own directional framing against its source tables before trusting it, even within the same reporting house.
+- **11-Aug digest:** reported ASPI "closed lower... down by 0.04%" on 10-Aug. The 10-Aug SenFin Daily Report itself shows ASPI **up** 0.22% that day — the −0.04% figure is actually the S&P SL20's change, mislabeled as ASPI's.
+- **12-Aug card:** aggregate market-earnings chart (§5) contradicts the 11-Aug version outright — see §5, retracted from use.
+
+Same underlying pattern as the SINS Cyclone Ditwah contradiction and the DIPD/HAYC price-data-quality issues already logged in the vault. Cross-check this source's own numbers against its own prior-day tables before trusting any single-source figure, even within the same reporting house on consecutive days.
 
 ## 11. Market-wide valuation snapshot (CSE, 10-Aug-2026)
 
-ASPI 21,417.5 (+0.22% on 10-Aug, YTD −5.3%); 12-Aug close reported flat, ASPI down a marginal 0.07% (diversified financials leading turnover). PER 11.3×, PBV 1.3×, DY 3.0%. Market E/Y ≈ 8.85% — still below the 12.6% hurdle in aggregate, consistent with the standing "floors stay strict" instruction (Layer 4, step 1: if market E/Y < long-bond yield, the average stock is worse than the bond).
+ASPI 21,417.5 (10-Aug, +0.22%) → 21,403 (11-Aug, confirmed −0.07%, matching the 12-Aug news digest's own text). PER 11.3×, PBV 1.3×, DY 3.0%. Market E/Y ≈ 8.85% — still below the 12.6% hurdle in aggregate, consistent with the standing "floors stay strict" instruction. Turnover thinned sharply on 11-Aug: Rs. 1.52bn vs Rs. 3.81bn the prior day, well below the YTD daily average of ~4.1bn.
 
 **August crossings-as-%-of-turnover: 67%**, up sharply from July's 47% and the 17–30% range typical through most of the year — this month's tape is unusually dominated by negotiated block deals relative to organic trading. Worth keeping in mind when reading any ASPI move this month.
 
