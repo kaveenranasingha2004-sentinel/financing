@@ -61,9 +61,9 @@ Checked Note 19 (Other Operating Income, USD 716k, ~1% of PAT — solar power in
 
 **The 10-year PAT series is the most volatile in this sequence, by a wide margin:**
 
-| USD'000 | 2026 | 2025 | 2024 | 2023 | 2022 | 2021 | 2020 | 2019 | 2018 | 2017 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| PAT | 2,077 | 7,036 | 7,865 | 1,133 | 12,777 | 3,852 | 1,271 | 1,058 | (680) | 490 |
+| USD'000 | 2026  | 2025  | 2024  | 2023  | 2022   | 2021  | 2020  | 2019  | 2018  | 2017 |
+| ------- | ----- | ----- | ----- | ----- | ------ | ----- | ----- | ----- | ----- | ---- |
+| PAT     | 2,077 | 7,036 | 7,865 | 1,133 | 12,777 | 3,852 | 1,271 | 1,058 | (680) | 490  |
 
 A ~24× swing between the 2018 loss year and the 2022 peak, inside a single decade — wider than ALUM's fire-contaminated two years, wider than DIPD's or HAYC's two-point reads. 2021–22 line up with the post-COVID apparel-demand supercycle (revenue jumped from ~77M to ~150M in a single year); 2023's near-trough (1.13M) lines up with Sri Lanka's own currency-crisis year. **This looks like two distinct regimes stitched together, not noise around a stable mean.**
 
