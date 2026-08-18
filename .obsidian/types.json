@@ -3,6 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "last-review": "date"
+    "last-review": "date",
+    "floor": "text"
   }
 }

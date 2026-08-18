@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("research")
+    order:
+      - company
+      - floor
+      - ceiling
+  - type: list
+    name: View

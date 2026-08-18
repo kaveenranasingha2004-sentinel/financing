@@ -6,12 +6,19 @@ exchange: CSE
 status: CANDIDATE — WATCHLIST (no position)
 verdict-date: 2026-07-14
 sector-thesis: Layer 2 — life insurer duration/reinvestment play (rising-yield beneficiary)
-buy-floor: 70.00 (DRAFT — see derivation; confirm against current price before any order)
+floor: 70.00 (DRAFT — see derivation; confirm against current price before any order)
 ceiling: 100–105 (DRAFT)
 stop-level: n/a (no position)
 next-trigger: Q2-2026 interims (Aug) + next T-bond auction direction + SLFRS 17 restated disclosures
 last-review: 2026-07-14
-tags: [investing, cse, research-file, aaic, insurance, life-insurance, candidate]
+tags:
+  - investing
+  - cse
+  - research-file
+  - aaic
+  - insurance
+  - life-insurance
+  - candidate
 ---
 
 # AAIC — Softlogic Life Insurance PLC — Research File

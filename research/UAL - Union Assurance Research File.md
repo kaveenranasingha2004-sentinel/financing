@@ -6,12 +6,20 @@ exchange: CSE
 status: CANDIDATE — WATCHLIST (no position)
 verdict-date: 2026-07-15
 sector-thesis: Layer 2 — life insurer duration/reinvestment play (rising-yield beneficiary)
-buy-floor: 55.00 (DRAFT — earnings-yield derivation below; confirm current price before any order)
+floor: 55.00 (DRAFT — earnings-yield derivation below; confirm current price before any order)
 ceiling: 78–80 (DRAFT)
 stop-level: n/a (no position)
 next-trigger: Q2-2026 interims (Aug) + SLFRS 17 restated disclosures (H2) + T-bond auction direction
 last-review: 2026-07-15
-tags: [investing, cse, research-file, ual, insurance, life-insurance, candidate, jkh-group]
+tags:
+  - investing
+  - cse
+  - research-file
+  - ual
+  - insurance
+  - life-insurance
+  - candidate
+  - jkh-group
 ---
 
 # UAL — Union Assurance PLC — Research File

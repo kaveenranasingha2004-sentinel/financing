@@ -6,12 +6,19 @@ exchange: CSE (Diri Savi Board)
 status: CANDIDATE — WATCHLIST (no position) + JXG SOTP marking
 verdict-date: 2026-07-15
 sector-thesis: Layer 2 insurance — applies in inverted form (see §3)
-buy-floor: 18.00 post-split (second tranche 16.00) — see §7
-ceiling: 24–27 post-split
+floor: 17.00 (DRAFT — see derivation; confirm against current price before any order)
+ceiling: 24.00 post-split
 group-exposure-rule: any JINS order shares one Janashakthi-group cap with JXG (Layer 5)
 next-trigger: current post-split JINS quote (homework) + Q2'26 interim (FCH swing, GWP) + SLFRS 17 Q4'26 restatement
 last-review: 2026-07-15
-tags: [investing, cse, research-file, jins, insurance, life-insurance, jxg-sotp]
+tags:
+  - investing
+  - cse
+  - research-file
+  - jins
+  - insurance
+  - life-insurance
+  - jxg-sotp
 ---
 
 # JINS — Janashakthi Insurance PLC — Research File
