@@ -27,11 +27,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Untitled.base",
+                "file": "All_at-once.base",
                 "viewName": "Table"
               },
               "icon": "lucide-table",
-              "title": "Untitled"
+              "title": "All_at-once"
             }
           }
         ],
@@ -128,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.base",
+            "file": "All_at-once.base",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -182,11 +182,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "2790ec31cc96512c",
+  "active": "ccb258a3baa76f14",
   "lastOpenFiles": [
     "Macro/Macro Dashboard.md",
     "research/AAIC - Softlogic Life Research File-3.md",
-    "Untitled.base",
+    "All_at-once.base",
     "research/UAL - Union Assurance Research File.md",
     "research/JKH - John Keells Holdings Research File.md",
     "research/JINS - Janashakthi Insurance Research File.md",
