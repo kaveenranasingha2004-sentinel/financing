@@ -8,5 +8,9 @@ views:
       - company
       - floor
       - ceiling
-  - type: list
+    columnSize:
+      note.company: 173
+      note.floor: 76
+      note.ceiling: 85
+  - type: cards
     name: View

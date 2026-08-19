@@ -5,14 +5,23 @@ sector: Knitted Fabric Manufacturing (Textiles) — Hayleys Group subsidiary
 type: listed subsidiary, 63.05% owned by Hayleys PLC (58.96% direct + 4.09% Hayleys-linked), 1993 incorporation, Colombo Stock Exchange
 position: none — research candidate, 8th of the Hayleys-group sequence (HAYL → DIPD → HAYC → ALUM → SINS → LIOC → SERV → MGT)
 verdict: WATCHLIST — floor 9.00, second tranche 8.10, ceiling 17.00, confirmed market price ~30.10; no position
-floor: 9.00
-second-tranche: 8.10
-ceiling: 17.00
+floor: "9"
+second-tranche: 8.1
+ceiling: 17
 stop-level: n/a (no position)
 last-review: 2026-08-06
 source-docs: Annual Report 2025/26 (year ended 31 March 2026, primary — Financial Highlights, Ten Year Summary, Vertical/Horizontal Analysis, Notes 18-23 & 27, Quarterly Results table); Interim Report Q1 FY2026/27 (unaudited, period ended 30 June 2026, primary); current price cross-checked via TradingView, 06 Aug 2026
 next-trigger: FY26/27 Q2 interim (does the Q1 bounce off the Q3-FY26 trough continue, or reverse) + identity/trend of the loss-making subsidiary driving the ETR inflation + FY26 sustainable-EPS window resolved with a fourth data point
-tags: [investing, cse, research-file, mgt, hayleys-group, textiles, knitted-fabric, holdco-subsidiary, usd-functional-currency]
+tags:
+  - investing
+  - cse
+  - research-file
+  - mgt
+  - hayleys-group
+  - textiles
+  - knitted-fabric
+  - holdco-subsidiary
+  - usd-functional-currency
 ---
 
 # MGT — Hayleys Fabric PLC — Research File

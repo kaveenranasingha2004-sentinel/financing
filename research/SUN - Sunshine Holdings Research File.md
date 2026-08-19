@@ -6,12 +6,19 @@ exchange: CSE
 status: CLOSED — position sold 2026-08-13, realized loss -10.37%
 verdict-date: 2026-07-03 (original), materially updated (Q1 FY26/27 review)
 position: none — closed. Formerly 100 shares @ 33.47 avg cost.
-floor: 7.00
-second-tranche: 6.30
-ceiling: 12.50
-exit-price: 30.00
-realized-pl: "-347 LKR / -10.37% vs cost"
-tags: [investing, cse, research-file, sun, healthcare, palm-oil, closed-position]
+floor: "7"
+second-tranche: 6.3
+ceiling: 12.5
+exit-price: 30
+realized-pl: -347 LKR / -10.37% vs cost
+tags:
+  - investing
+  - cse
+  - research-file
+  - sun
+  - healthcare
+  - palm-oil
+  - closed-position
 ---
 
 # SUN — Sunshine Holdings PLC — Research File (CLOSED)

@@ -5,14 +5,22 @@ sector: Petroleum products (fuel retail, lubricants, bitumen, bunker/marine fuel
 type: listed subsidiary, 75.12% owned by Indian Oil Corporation Limited (India), 2002 incorporation, Colombo Stock Exchange
 position: none — research candidate, final and deliberately-last name in the ALUM→SINS→SERV→LIOC sequence — the control case
 verdict: WATCHLIST — floor 129.00, second tranche 116.00, ceiling 176.00; last traded 141.50, INSIDE the band (first name in this sequence to land here); no position
-floor: 129.00
-second-tranche: 116.00
-ceiling: 176.00
+floor: "129"
+second-tranche: 116
+ceiling: 176
 stop-level: n/a (no position)
 last-review: 2026-08-04
 source-docs: Lanka IOC PLC Annual Report 2025-26 (244pp, primary — Financial Highlights 5-year summary, Notes to Financial Statements including Tax Reconciliation, Segment Note, Investment Notes); Financial Statements for the Three Months Ended 30 June 2026 (unaudited, primary)
 next-trigger: Q2 FY26/27 interim (does the Q1 gross-margin compression, GP margin 7.7%→4.1% YoY, continue or reverse as oil-price volatility settles) + any change to the concessionary tax regime
-tags: [investing, cse, research-file, lioc, petroleum, fuel-retail, unrelated-control-case, hayleys-hypothesis-test]
+tags:
+  - investing
+  - cse
+  - research-file
+  - lioc
+  - petroleum
+  - fuel-retail
+  - unrelated-control-case
+  - hayleys-hypothesis-test
 ---
 
 # LIOC — Lanka IOC PLC — Research File

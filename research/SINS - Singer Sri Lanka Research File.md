@@ -5,14 +5,22 @@ sector: Consumer Electronics/Appliances Retail + Captive Financial Services — 
 type: listed subsidiary, 67.13% owned by Hayleys PLC (87.28%+ Hayleys-linked), 1974 incorporation, Colombo Stock Exchange
 position: none — research candidate, 2nd of ALUM → SINS → KHL → LIOC sequence
 verdict: WATCHLIST — floor 30.00, second tranche 27.00, ceiling 49-50, confirmed price 76.00 (30-Jun-2026), ~52% above ceiling; no position
-floor: 30.00
-second-tranche: 27.00
+floor: "30"
+second-tranche: 27
 ceiling: 49-50
 stop-level: n/a (no position)
 last-review: 2026-08-10
 source-docs: Interim Financial Statements for the Twelve Months ended 31 March 2026 (unaudited, Group + Company); Annual Report 2025/26 (400pp, primary — Performance Highlights, Segmental Analysis Notes 4.2/4.3, Capital Management Note 34.2, Auditor's Report Key Audit Matters, Contingencies Note 35); Interim Financial Statements for the Three Months ended 30 June 2026 (unaudited, Group + Company); current price cross-checked via TradingView, 30 Jul 2026 and the Q1 FY26/27 interim's own investor-info page
 next-trigger: FY26/27 Q2 interim (does the impairment-vs-book-growth deceleration seen this quarter hold, or reverse) + funding-cost growth rate (68% YoY this quarter — the sharpest acceleration in the file's history) + Singer Finance NPL ratio disclosure if it ever appears
-tags: [investing, cse, research-file, sins, hayleys-group, consumer-electronics, captive-finance, holdco-subsidiary]
+tags:
+  - investing
+  - cse
+  - research-file
+  - sins
+  - hayleys-group
+  - consumer-electronics
+  - captive-finance
+  - holdco-subsidiary
 ---
 
 # SINS — Singer (Sri Lanka) PLC — Research File

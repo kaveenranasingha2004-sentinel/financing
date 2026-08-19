@@ -6,10 +6,17 @@ exchange: CSE
 status: HOLD — 17.50 target falsified by its own source document; ceiling revised down
 verdict-date: 2026-07-13
 position: 800 shares @ ~9.04 effective cost (after partial exits at 13.50 and 14.20)
-floor: 10.00
+floor: "10"
 ceiling: 14.00–15.00
 next-trigger: T-bill yield direction (drives First Capital P&L) + Q4 FY26 results + first dividend declaration as listed entity
-tags: [investing, cse, research-file, jxg, holdco, ipo, sotp]
+tags:
+  - investing
+  - cse
+  - research-file
+  - jxg
+  - holdco
+  - ipo
+  - sotp
 ---
 
 # JXG — Janashakthi Limited — Research File

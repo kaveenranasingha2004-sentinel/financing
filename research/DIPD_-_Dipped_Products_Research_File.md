@@ -5,13 +5,21 @@ sector: Hand Protection (rubber gloves) + Plantations — Hayleys Group subsidia
 type: listed subsidiary, 55.78% owned by Hayleys PLC, 1976 incorporation, Colombo Stock Exchange
 position: none — research candidate, 2nd of HAYL → DIPD → HAYC → KHL sequence
 verdict: WATCHLIST — floor 36, ceiling 45-46, confirmed market price ~56.50 (~23% above ceiling); no position
-floor: 36
+floor: "36"
 ceiling: 45-46
 stop-level: n/a (no position)
 last-review: 2026-07-19
 source-docs: Interim Report for the Year Ended 31 March 2026 (unaudited, Group + Company) — Statement of Profit or Loss, Financial Position, Changes in Equity, Cash Flows, Notes, Investor Information; price cross-checked via TradingView + stockanalysis.com, 19 Jul 2026
 next-trigger: FY27 Q1 finance costs (tests the debt-lag risk below) + Annual Report (multi-year EPS series, currently missing)
-tags: [investing, cse, research-file, dipd, hayleys-group, hand-protection, plantations, holdco-subsidiary]
+tags:
+  - investing
+  - cse
+  - research-file
+  - dipd
+  - hayleys-group
+  - hand-protection
+  - plantations
+  - holdco-subsidiary
 ---
 
 # DIPD — Dipped Products PLC — Research File

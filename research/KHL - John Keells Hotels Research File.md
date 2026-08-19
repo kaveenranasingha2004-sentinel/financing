@@ -5,14 +5,23 @@ sector: Hospitality (Cinnamon Hotels & Resorts) — Sri Lanka + Maldives — JKH
 type: listed subsidiary, 80.32% owned by John Keells Holdings PLC, 1979 incorporation, Colombo Stock Exchange
 position: none — candidate, priority (JKH is a held position; KHL is JKH's own Leisure-segment operating vehicle)
 verdict: WATCHLIST — floor 15.50, ceiling 20.00-20.50, last known price 18.10 (30-Jun-2026); no position — asset-anchor method, recovery-stage business
-floor: 15.50
-second-tranche: 14.00
+floor: "15.5"
+second-tranche: 14
 ceiling: 20.00-20.50
 stop-level: n/a (no position)
 last-review: 2026-08-02
 source-docs: John Keells Hotels PLC Integrated Report 2025/26 (352pp, primary — Financial Statements, Notes, Decade at a Glance, Investor Information, Quarterly Information, Segment Note); Interim Condensed Financial Statements for the Three Months Ended 30 June 2026 (unaudited)
 next-trigger: Q2 FY26/27 interim — does the Q1 relapse (loss widening YoY) prove seasonal noise or a genuine trend break; current ratio trajectory; any update on parent (JKH) funding support drawn
-tags: [investing, cse, research-file, khl, jkh-group, hospitality, leisure, holdco-subsidiary, recovery-play]
+tags:
+  - investing
+  - cse
+  - research-file
+  - khl
+  - jkh-group
+  - hospitality
+  - leisure
+  - holdco-subsidiary
+  - recovery-play
 ---
 
 # KHL — John Keells Hotels PLC — Research File

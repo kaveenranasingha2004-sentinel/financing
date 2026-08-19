@@ -5,7 +5,7 @@ sector: Hospitality (single-property city hotel, Colombo) — Hayleys Group subs
 type: listed subsidiary, ~59.5% Hayleys-linked (Hayleys PLC 36.08% + Carbotels (Pvt) Ltd 23.40%), 1969 incorporation, Colombo Stock Exchange
 position: none — research candidate, 6th of the Hayleys-group sequence (HAYL→DIPD→HAYC→ALUM→SINS→SERV), with LIOC still deliberately queued last
 verdict: WATCHLIST — floor 4.10, second tranche 3.70, ceiling 6.00; last traded 15.00-15.10, ~150% above ceiling; no position
-floor: 4.1
+floor: "4.1"
 second-tranche: 3.7
 ceiling: 6
 stop-level: n/a (no position)

@@ -5,13 +5,20 @@ sector: Diversified Conglomerate (Holdco) — 14 industry segments + Others
 type: multi-industry parent, 1952 listing, Colombo Stock Exchange
 position: none — research candidate, 1st of HAYL → DIPD → HAYC → KHL sequence
 verdict: WATCHLIST — floor and ceiling derived below; market at 215 sits above the ceiling; no position
-floor: 115
+floor: "115"
 ceiling: 140-145
 stop-level: n/a (no position)
 last-review: 2026-07-16
 source-docs: Hayleys PLC Annual Report 2025/26 (Segment Analysis Note 40, Principal Subsidiaries Note 39, Ten Year Summary, Performance Highlights & Ratios summary, Quarterly Analysis); Q4 FY26 unaudited financial statements
 next-trigger: Q1 FY27 operating cash flow (does FY26 profit convert to cash) + verified broker-terminal SOTP once DIPD/HAYC/SINS/KHL prices can be confirmed against a reliable source
-tags: [investing, cse, research-file, hayl, conglomerate, holdco, sotp-candidate]
+tags:
+  - investing
+  - cse
+  - research-file
+  - hayl
+  - conglomerate
+  - holdco
+  - sotp-candidate
 ---
 
 # HAYL — Hayleys PLC — Research File

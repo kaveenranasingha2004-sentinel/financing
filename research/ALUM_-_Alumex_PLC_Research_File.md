@@ -5,14 +5,21 @@ sector: Aluminium Extrusions & Profiles — Hayleys Group subsidiary
 type: listed subsidiary, 52.59% owned by Hayleys PLC, 2007 incorporation, Colombo Stock Exchange
 position: none — research candidate, 1st completed of the ALUM → SINS → KHL → LIOC sequence
 verdict: WATCHLIST — floor 3.80, ceiling 6.00-6.10, last-traded 17.90 (30-Jun-2026), ~200% above ceiling; no position
-floor: 3.80
-second-tranche: 3.40
+floor: "3.8"
+second-tranche: 3.4
 ceiling: 6.00-6.10
 stop-level: n/a (no position)
 last-review: 2026-07-25
 source-docs: Alumex PLC Annual Report 2025/26 (year ended 31 March 2026, 276pp, primary — Financial Highlights, MD&A, Notes to Financial Statements, Investor Information); Interim Report Q1 FY2026/27 (unaudited, period ended 30 June 2026)
 next-trigger: Q2 FY26/27 interim (confirms/denies the FY26 adjusted-earnings trajectory on a clean quarter) + debt restructuring progress (short-term → long-term) + Court of Appeal hearing on the Alco Industries tax assessment (scheduled 31 July 2026)
-tags: [investing, cse, research-file, alum, hayleys-group, aluminium-extrusions, holdco-subsidiary]
+tags:
+  - investing
+  - cse
+  - research-file
+  - alum
+  - hayleys-group
+  - aluminium-extrusions
+  - holdco-subsidiary
 ---
 
 # ALUM — Alumex PLC — Research File

@@ -5,13 +5,20 @@ sector: Activated Carbon (coconut-shell) + Environmental Engineering — Hayleys
 type: listed subsidiary, 67.73% owned by Hayleys PLC, 1973 incorporation, Colombo Stock Exchange
 position: none — research candidate, 3rd of HAYL → DIPD → HAYC → LIOC → KHL sequence
 verdict: WATCHLIST — floor 70, ceiling 95-96; broker-confirmed market price Rs. 175.00, ~83% above ceiling; no position
-floor: 70
+floor: "70"
 ceiling: 95-96
 stop-level: n/a (no position)
 last-review: 2026-07-20
 source-docs: Interim Report for the Year Ended 31 March 2026 (unaudited, Group + Company) — Statement of Profit or Loss, Comprehensive Income, Financial Position, Changes in Equity, Cash Flows, Segment Analysis, Notes, Investor Information; current price confirmed via broker terminal, 20 Jul 2026
 next-trigger: FY27 Q1 operating cash flow (does the inventory/receivables build reverse or deepen)
-tags: [investing, cse, research-file, hayc, hayleys-group, activated-carbon, holdco-subsidiary]
+tags:
+  - investing
+  - cse
+  - research-file
+  - hayc
+  - hayleys-group
+  - activated-carbon
+  - holdco-subsidiary
 ---
 
 # HAYC — Haycarb PLC — Research File
