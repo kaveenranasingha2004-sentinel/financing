@@ -11,13 +11,24 @@
             "id": "2ac8421bf1e8a1d1",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "All_at-once.base",
-                "viewName": "Table"
+                "file": "research/AAIC - Softlogic Life Research File-3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "All_at-once"
+              "icon": "lucide-file",
+              "title": "AAIC - Softlogic Life Research File-3"
             }
           },
           {
@@ -108,7 +119,10 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {},
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
@@ -126,7 +140,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "All_at-once.base",
+            "file": "research/AAIC - Softlogic Life Research File-3.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -182,22 +196,22 @@
   },
   "active": "2ac8421bf1e8a1d1",
   "lastOpenFiles": [
-    "research/UAL - Union Assurance Research File.md",
+    "research/JXG-research-file.md",
+    "research/AAIC - Softlogic Life Research File-3.md",
     "All_at-once.base",
+    "research/ALUM_-_Alumex_PLC_Research_File.md",
+    "research/UAL - Union Assurance Research File.md",
     "research/DIPD_-_Dipped_Products_Research_File.md",
     "research/SINS - Singer Sri Lanka Research File.md",
     "research/SUN - Sunshine Holdings Research File.md",
     "research/SERV - The Kingsbury PLC Research File.md",
     "research/LIOC - Lanka IOC PLC Research File.md",
     "research/KHL - John Keells Hotels Research File.md",
-    "research/JXG-research-file.md",
     "research/JKH - John Keells Holdings Research File.md",
     "research/JINS - Janashakthi Insurance Research File.md",
     "research/HAYLEYS Fabric research file.md",
     "research/HAYL - Hayleys PLC Research File.md",
     "research/HAYC_-_Haycarb_Research_File.md",
-    "research/ALUM_-_Alumex_PLC_Research_File.md",
-    "research/AAIC - Softlogic Life Research File-3.md",
     "Macro/Macro Dashboard.md",
     "system/five_layer_system_procedure.md",
     "daily tasks/Daily Market Checklist - 2026-07-13.md",
