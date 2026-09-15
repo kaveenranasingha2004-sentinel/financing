@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Macro Dashboard"
             }
+          },
+          {
+            "id": "8113f1038e9614de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system/Layer 4a — Technical Analysis Addendum.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Layer 4a — Technical Analysis Addendum"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,8 +200,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "ac0e1cb9f8f587aa",
+  "active": "d9ab76b2bbbb86de",
   "lastOpenFiles": [
+    "Macro/Macro Dashboard.md",
+    "system/Layer 4a — Technical Analysis Addendum.md",
     "All_at-once.base",
     "research/SINS - Singer Sri Lanka Research File.md",
     "research/SUN - Sunshine Holdings Research File.md",
