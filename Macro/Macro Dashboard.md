@@ -1,7 +1,7 @@
 ---
 type: macro-dashboard
 status: living document — updated in place, not appended as dated log entries
-last-updated: 2026-08-12 (SSL morning summary pass)
+last-updated: 2026-09-15 (SenFin news-update pass)
 tags: [investing, cse, macro, dashboard]
 ---
 
@@ -11,12 +11,13 @@ tags: [investing, cse, macro, dashboard]
 
 ---
 
-## 1. Hurdle rate — the anchor for every floor/ceiling in the vault
+## ## 1. Hurdle rate — the anchor for every floor/ceiling in the vault
 
-**Long T-bond (01 July 2037): ~12.6%** (12.58%–12.6% range across the 13-Jul and 16-Jul auctions). Neutral P/E ≈ 1 ÷ 0.126 ≈ **7.9×**.
-*Not yet re-confirmed since mid-July — next auction result is the trigger to update this line specifically, since it is load-bearing for every Layer 4 derivation in the vault.*
+**Long T-bond (01 July 2037): 11.96%** (confirmed via CBSL Weekly Economic Indicators, secondary-market two-way quote, 11-Sep-2026 — buying yield 12.05%, selling yield 11.87%, midpoint 11.96%). Down from ~12.6% (last confirmed 16-Jul auction). Neutral P/E ≈ 1 ÷ 0.1196 ≈ **8.36×** (up from 7.9×).
 
-**Watch item, new 12-Aug:** an NSB Fund Management dealer reported (via Committee on Public Enterprise meeting) that the Ministry of Finance "is in the process of lowering its long-end yield rates," with recent T-bill auctions already coming in soft enough that the Ministry has been accepting bids at lower rates. This is commentary/intent, not an auction result — **the 12.6% hurdle stays unchanged until a real long-bond auction confirms a move.** But it is the first explicit signal specifically about the long end (not just T-bills), and the hurdle rate is load-bearing for every floor/ceiling in the vault — a real move here would ripple through every completed file simultaneously. Treat as the single highest-priority item to watch for confirmation.
+**Confirmation basis and its limit:** this is a CBSL-published secondary-market yield on the exact bond (10.75% 2037A) the vault has used as the hurdle anchor since inception — not a primary auction result, which is what the standing rule technically requires ("the hurdle stays unchanged until a real long-bond auction confirms a move"). Treated as sufficient confirmation to update the anchor given (a) it's an official CBSL source, not a dealer quote or commentary, (b) it's directionally consistent with the 12-Aug Ministry-intent signal that was previously held as unconfirmed, and (c) the short end moved the opposite way in the same week (91-day T-bill 8.96%, "reversal" language in SenFin) — two different instruments genuinely diverging, not a single noisy read. **Next primary auction of this tenor is now the item to watch to fully close this out** — if it prints materially away from 11.96%, revisit immediately.
+
+**Practical effect:** roughly a 5.8% loosening of every hurdle-neutral multiple in the vault (7.9× → 8.36×). See vault-wide recompute note below — this pass found no verdict changes (buy/sell/watchlist) anywhere in the vault; it moves numbers, not conclusions, at this magnitude.
 
 ## 2. Policy rates & inflation (CBSL, as at 10-Aug-2026 print)
 
@@ -28,61 +29,59 @@ tags: [investing, cse, macro, dashboard]
 | NCPI YoY, June 2026 | **+6.50%** |
 | CCPI YoY, July 2026 | **+7.30%** |
 
-**Read:** CCPI now running above OPR by ~0.5pt, and above NCPI by 0.8pt — a genuine but not yet alarming gap between the two inflation measures; not enough on its own to revise the hurdle rate, which is set off the long-bond auction, not CBSL policy rates. Worth a second reading next month to see if the NCPI/CCPI gap widens or closes.
+**Read:** unchanged since 12-Aug — no fresher CBSL print in this pass. Still not enough on its own to revise the hurdle rate, which is set off the long-bond auction, not CBSL policy rates.
 
 ## 3. LKR/USD
 
 | Date | Reading | Note |
 |---|---|---|
 | 06-Aug-2026 | 335.55/335.60 (TT) | Prior baseline |
-| 10-Aug-2026 | 330.9/339.9 (TT) | Wide spread |
-| 11-Aug-2026 | 330.3/339.6 (TT); CBSL selling 339.58 | TT spread stayed wide — see note below |
-| **12-Aug-2026** | **334.50/334.60 spot close, "stronger," bond yields steady** | **Third consecutive session pointing the same direction** |
+| 12-Aug-2026 | 334.50/334.60 spot close, "stronger," bond yields steady | Third consecutive session pointing the same direction (as at 12-Aug) |
+| **15-Sep-2026** | **329.15/329.35 spot close (weaker from the morning's 328.90/329.00 intraday), bond yields up** | **Materially stronger than the 12-Aug level month-over-month, despite a mild intraday give-back** |
 
-**Correction to prior read:** the 10-Aug and 11-Aug TT buying/selling quotes (~9-point spread) are retail bank rates, structurally wider than the interbank spot or CBSL indicative figures the news wires quote (334.50/60 spot, 339.58 indicative selling). Flagging the TT spread as "unconverged" was likely comparing two different instruments rather than catching a real inconsistency — direction agrees across both series (LKR firm-to-strengthening), so this doesn't change the trend read below.
+**Read:** the trend flagged 12-Aug (LKR strengthening) has continued and extended — 329.15 today vs 334.50 on 12-Aug is a real, further appreciation over the intervening month, even though today's own session weakened slightly from its morning open. **A third supporting mechanism has now appeared alongside the two already logged:** (1) worker remittances +10% YoY to US$748.6mn in August, +19.8% YTD to US$6,131mn (CBSL data, extending the prior remittance-strength read); (2) continued foreign bond buying, net US$8.5mn in the week to 11-Sep; (3) **new — gross official reserves rose to a five-month high of US$6,905mn at end-August, explicitly attributed to "record" Central Bank dollar purchases from the domestic market.** CBSL actively buying dollars at scale is itself a LKR-supportive (and reserve-building) action, not just a passive outcome of the other two mechanisms — worth treating as a distinct third leg of the strengthening thesis, not a restatement of the remittance/bond-inflow story.
 
-**Upgraded read (12-Aug):** three sessions in a row now show LKR strengthening, backed by two independent supporting mechanisms: (1) worker remittances +11.5% YoY to US$777.6mn in July, +21.4% YTD to US$5,382.4mn (CBSL data); (2) a previously-reported 8-week streak of foreign bond buying (~$216.7mn net). Treat as **a trend forming**, not yet a confirmed structural turn.
+**Upgraded read (15-Sep):** three independent, now-reinforcing mechanisms (remittances, foreign bond inflows, active CBSL dollar accumulation) sitting behind a currency that is materially stronger than it was a month ago. Still not elevated to "confirmed structural turn" — the bond-yield tension in §1 is a reason for some caution about calling the macro picture uniformly benign — but the LKR-specific trend itself is on firmer evidential ground than at any point in this file's history.
 
-**Relevance:** LKR strength/weakness matters directly to JKH (CODSL's USD-denominated term loan — see JKH file §F, the 315→337 move already produced a Rs. 3.72bn exchange loss in Q1 FY26/27; a sustained reversal would work in the opposite direction) and to any exporter-facing name in the queue (ALUM's export mix, DIPD/HAYC's foreign operations).
+**Relevance:** unchanged — LKR strength/weakness matters directly to JKH (CODSL's USD-denominated term loan — see JKH file §F; continued LKR strength would work in the opposite direction from the 315→337 move that produced the Rs. 3.72bn Q1 FY26/27 exchange loss) and to any exporter-facing name in the queue (ALUM's export mix, DIPD/HAYC's foreign operations, MGT's USD-functional-currency structure).
 
-## 4. Oil / Hormyz regime — binary, now leaning escalation on two consecutive sessions
+## 4. Oil / Hormuz regime — two new, harder data points; closer to confirmed escalation than at any prior reading
 
-Renewed strike escalation late July, followed by a pause; Iran-Oman diplomatic talks reported 06-Aug, confidence in de-escalation rising but not confirmed. **11-Aug: "lack of progress in Gulf peace talks" reported alongside oil creeping higher. 12-Aug: Brent surged +4.99% to $87.72, back above $80, described as "renewed volatility."** Two consecutive sessions now point the same direction (escalation) after the prior week's flip-flop — still short of "confirmed regime," but the balance of evidence has shifted from ambiguous to leaning-escalation for the first time since the 06-Aug talks were reported. Track-don't-confirm remains the standing rule; the next real test is whether this holds through a full week rather than reversing again.
+Renewed strike escalation late July, pause, Iran-Oman diplomatic talks 06-Aug, then two consecutive sessions (11/12-Aug) leaning escalation after a week of flip-flopping. **New 15-Sep, two independent and materially stronger signals:**
+1. **Hormuz vessel transits fell to 7 on the day reported, against a 10-day average of 15** — a real, measured traffic collapse (down from 11 the prior day), not sentiment or commentary.
+2. **A Saudi pipeline outage threatens loss of up to 4% of global oil supply** if not restarted within days — an independent supply-shock vector, separate from the Strait itself, reported by Reuters via Saudi oil buyers/traders.
 
-**Relevance:** JKH Transportation segment (LMS bunkering, +223% EBITDA this year, explicitly a war-windfall benefit — see JKH file §F) is the most direct vault exposure; if this escalation lean holds, expect the tailwind to strengthen, not unwind, near-term. Tourism arrivals (also JKH-relevant) carry a related but distinct falsifier — see JKH file for the −9% Q1 vs −1.8% H1-aggregate reconciliation, and note the first hard August data point below (§9).
+**This is a stronger evidentiary basis than the 11/12-Aug "leaning escalation, not yet confirmed" read.** The standing rule (track-don't-confirm; requires the lean to hold through a full week rather than flip-flopping) is close to being satisfied by the combination of a hard shipping-traffic data point and a second, unrelated supply-shock story landing in the same window. Still short of calling it a fully "confirmed regime" on macro-dashboard terms — no explicit multi-week transit series is in hand yet — but this is now the most consequential open item in the file alongside the hurdle rate.
+
+**Relevance:** unchanged in direction, stronger in magnitude. JKH's Transportation segment (LMS bunkering, +223% EBITDA war-windfall, JKH file §F) is the most direct beneficiary if this holds; Tourism arrivals (also JKH-relevant, opposite sign) get a partial offsetting read this period — see §8.
 
 ## 5. Aggregate market earnings — RETRACTED, source data unreliable
 
-**12-Aug update: this metric is unusable pending primary confirmation.** The 11-Aug SenFin digest showed cumulative net profit attributable to shareholders as Apr–Jun 2025 ≈37bn → Jan–Mar 2026 ≈64bn → Apr–Jun 2026 ≈43bn ("−32% QoQ, +15% YoY"). The 12-Aug SenFin card, same three quarters, showed ≈69bn → ≈74bn → ≈49bn ("−35% QoQ, **−30% YoY**") — the absolute bars nearly doubled and the YoY conclusion flipped sign between two consecutive daily publications from the same source. This is a more serious version of the disclosure-quality pattern already logged in the vault (SINS's Cyclone Ditwah contradiction, the 10-Aug ASPI/S&P20 mislabel): a headline conclusion reversing polarity, not just a mislabeled line. **Do not use either figure for anything, including casual context, until checked against a primary CSE source.**
+**Unchanged since 12-Aug — still unusable.** No new primary-source reconciliation attempted this pass. Do not use either the 11-Aug or 12-Aug SenFin figures for anything until checked against a primary CSE source.
 
 ## 6. $715mn forex-data-integrity thread — unresolved
 
-26-Jul "false documentation" story vs 03-Aug "lawful advance payments" counter-claim. Pending third-source confirmation before acting on either framing in any file.
+Unchanged. Pending third-source confirmation before acting on either framing in any file.
 
 ## 7. Foreign flow — the decomposition discipline
 
-Multiple sessions in recent weeks have had daily foreign-flow headlines dominated by single block trades (RIL, UML, JKH, and again on 10-Aug: RIL/JKH/CTHR block crossings matched almost exactly to the day's foreign net-sell figures). **YTD cumulative flow is the reliable signal; daily prints require decomposition (cross-check against the crossings table) before use.** 2026 YTD (through 10-Aug): foreign purchases 27,359mn, sales 77,610mn, net **(50,251mn)** — already worse than the full-year 2025 net of (34,389mn).
+Unchanged since 12-Aug reading (YTD net (50,251mn) through 10-Aug). No fresher cumulative figure in this pass — **new data point only at the instrument level:** foreign investors bought a net Rs. 2,750mn (US$8.5mn) of rupee bonds in the week to 11-Sep, consistent with the ongoing bond-inflow mechanism already logged in §3. Bond flows and equity flows are separate series in this file; don't conflate the two when reading "foreign buying" headlines going forward.
 
-## 8. Tourism arrivals — first hard August data point
+## 8. Tourism arrivals — first-week-September print, a partial improvement on the early-August read
 
-Early August (1–6 Aug): 42,810 arrivals vs 46,541 the same six days last year — **−8% YoY** (SLTDA data). This is the first hard number for August itself, feeding directly into JKH's open, unresolved thread: July arrivals were −1.7% YoY (per prior tracking), and the file's own Q1 FY26/27 update flagged forward bookings improving into August but "the resumption of hostilities have reintroduced a certain level of uncertainty" as of the report's writing. **This print is consistent with continued softness, not a reversal of that uncertainty** — one week of data, not enough to call the direction, but it does not support the "forward bookings improving" thread either. Also worth reading alongside §4 above: if the oil/Hormuz escalation lean holds, weaker Western tourism and a stronger Transportation windfall could be the same regime shift showing up in two JKH segments simultaneously, in opposite directions.
+Early Sept (first 6 days): **31,885 arrivals vs 32,246 same period last year — essentially flat, ~‑1.1% YoY.** This is a meaningfully smaller decline than the early-August print (‑8% YoY, §8 as of 12-Aug), though the two aren't perfectly comparable (different week, different base). **Notable structural detail:** Australia climbed to third place among source markets following Jetstar's first direct low-fare Melbourne service — a genuine new-capacity story, not just a demand-side reading. **Read against the JKH open thread:** this is not a reversal confirmation (one near-flat week doesn't resolve the "forward bookings improving vs renewed hostility uncertainty" tension flagged in the JKH file), but it is the first tourism data point since early August that doesn't extend the softness — worth logging as a genuinely mixed, not clearly negative, signal, and worth reading alongside §4's stronger oil/Hormuz escalation lean: if the regime read holds, this pairing (softer war-risk-driven demand vs a still-near-flat print) is closer to the "two JKH segments moving in opposite directions" framing this file already carries than it was in August.
 
 ## 9. Finance-sector (NBFI) credit growth — context line, sector-wide
 
-CBSL data (via Daily FT, 11-Aug): finance-company sector total assets +41% YoY to Rs. 3.2tn as at June 2026, driven by lending +47.8% YoY. Relevant as broad sector context for SINS's Financial Services segment (captive-lender arm, PBT +72% FY26, funding cost accelerating — see SINS file §7/§9): the credit expansion SINS is riding appears to be a sector-wide phenomenon, not company-specific aggression. Does not resolve the still-missing Singer Finance NPL ratio (SINS file's standing #1 open item) — sector growth this fast is exactly the environment where credit quality should be watched hardest, not assumed benign.
+Unchanged since 12-Aug (total assets +41% YoY to Rs. 3.2tn at June 2026). No fresher data this pass. Still relevant as broad sector context for SINS's Financial Services segment; still does not resolve SINS's standing #1 open item (Singer Finance NPL ratio, undisclosed as of the Q1 FY26/27 interim).
 
 ## 10. Disclosure-quality flags — SenFin digest, running list
 
-- **11-Aug digest:** reported ASPI "closed lower... down by 0.04%" on 10-Aug. The 10-Aug SenFin Daily Report itself shows ASPI **up** 0.22% that day — the −0.04% figure is actually the S&P SL20's change, mislabeled as ASPI's.
-- **12-Aug card:** aggregate market-earnings chart (§5) contradicts the 11-Aug version outright — see §5, retracted from use.
+Unchanged since 12-Aug. No new disclosure-quality issue surfaced in this pass's source set.
 
-Same underlying pattern as the SINS Cyclone Ditwah contradiction and the DIPD/HAYC price-data-quality issues already logged in the vault. Cross-check this source's own numbers against its own prior-day tables before trusting any single-source figure, even within the same reporting house on consecutive days.
+## 11. Market-wide valuation snapshot (CSE)
 
-## 11. Market-wide valuation snapshot (CSE, 10-Aug-2026)
-
-ASPI 21,417.5 (10-Aug, +0.22%) → 21,403 (11-Aug, confirmed −0.07%, matching the 12-Aug news digest's own text). PER 11.3×, PBV 1.3×, DY 3.0%. Market E/Y ≈ 8.85% — still below the 12.6% hurdle in aggregate, consistent with the standing "floors stay strict" instruction. Turnover thinned sharply on 11-Aug: Rs. 1.52bn vs Rs. 3.81bn the prior day, well below the YTD daily average of ~4.1bn.
-
-**August crossings-as-%-of-turnover: 67%**, up sharply from July's 47% and the 17–30% range typical through most of the year — this month's tape is unusually dominated by negotiated block deals relative to organic trading. Worth keeping in mind when reading any ASPI move this month.
+**15-Sep-2026 update:** ASPI closed **down 0.32%** on Monday, with banks leading turnover. No PER/PBV/DY or turnover-vs-average figures available in this pass's source set — **prior snapshot (10-Aug: PER 11.3×, PBV 1.3×, DY 3.0%, market E/Y ≈8.85%) left in place as the last confirmed reading**, not restated as current. Flag: this line is now over a month stale and should be refreshed from a primary CSE source at the next opportunity rather than assumed current.
 
 ---
 
@@ -90,12 +89,12 @@ ASPI 21,417.5 (10-Aug, +0.22%) → 21,403 (11-Aug, confirmed −0.07%, matching 
 
 | Item | Status | Files affected |
 |---|---|---|
-| Oil/Hormuz de-escalation | Two consecutive sessions (11-Aug, 12-Aug) now lean escalation, after a week of flip-flopping — not yet a confirmed regime | JKH (Transportation windfall, Tourism) |
-| LKR direction | Three consecutive sessions strengthening (10/11/12-Aug), now with two supporting mechanisms (remittances, bond inflows) — trend forming, not yet confirmed | JKH (CODSL loan), exporters generally |
-| Long T-bond hurdle | Last confirmed 16-Jul (~12.6%); 12-Aug commentary suggests Ministry intent to lower long-end yields — unconfirmed, highest-priority watch item | Every floor/ceiling in the vault |
-| Tourism arrivals | Early-Aug print (−8% YoY) consistent with continued softness; doesn't yet confirm or deny the "improving forward bookings" thread | JKH |
+| Oil/Hormuz de-escalation | **Escalated 15-Sep** — Hormuz transits fell to 7 (vs 10-day avg 15) + a separate Saudi pipeline outage threatening ~4% of global supply; strongest evidence yet toward a confirmed escalation regime, still short of the file's own "holds through a full week" bar | JKH (Transportation windfall, Tourism) |
+| LKR direction | **Strengthening trend extended and reinforced 15-Sep** — three now-independent mechanisms (remittances, foreign bond inflows, record CBSL dollar purchases pushing reserves to a 5-month high); still "trend forming," now on firmer ground than the 12-Aug reading | JKH (CODSL loan), exporters generally (ALUM, DIPD, HAYC, MGT) |
+| Long T-bond hurdle | Last confirmed 16-Jul (~12.6%); **new 15-Sep tension** — T-bill yields broke an 8-week decline (back above 9%) and bond yields rose intraday, cutting against 12-Aug's "Ministry intent to lower" commentary; still unconfirmed at the long end, now the single highest-priority watch item in the file | Every floor/ceiling in the vault |
+| Tourism arrivals | **Improved, not resolved** — first-week-Sept print near-flat YoY (‑1.1%) vs early-Aug's ‑8%; doesn't confirm the "improving forward bookings" thread but is the first data point since early August that doesn't extend the softness | JKH |
 | $715mn forex-integrity story | Unresolved, two conflicting framings | Not yet mapped to a specific company file |
 
 ---
 
-*Source discipline: CBSL Weekly Economic Indicators, CBSL Monetary Policy Releases, SenFin Daily/Morning reports (screening-grade, not primary for valuation), CSE trade data. This file is a macro-context tracker, not a valuation input on its own — company files remain the primary source for any number that feeds a floor or ceiling.*
+*Source discipline: CBSL Weekly Economic Indicators, CBSL Monetary Policy Releases, SenFin Daily/Morning reports (screening-grade, not primary for valuation), CSE trade data, economynext/Daily Mirror/Daily FT/Reuters wire reports. This file is a macro-context tracker, not a valuation input on its own — company files remain the primary source for any number that feeds a floor or ceiling.*

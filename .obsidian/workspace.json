@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/SINS - Singer Sri Lanka Research File.md",
+                "file": "Macro/Macro Dashboard.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "SINS - Singer Sri Lanka Research File"
+              "title": "Macro Dashboard"
             }
           }
         ]
@@ -187,8 +187,9 @@
   },
   "active": "ac0e1cb9f8f587aa",
   "lastOpenFiles": [
-    "research/SUN - Sunshine Holdings Research File.md",
+    "All_at-once.base",
     "research/SINS - Singer Sri Lanka Research File.md",
+    "research/SUN - Sunshine Holdings Research File.md",
     "research/UAL - Union Assurance Research File.md",
     "research/HAYLEYS Fabric research file.md",
     "research/LIOC - Lanka IOC PLC Research File.md",
