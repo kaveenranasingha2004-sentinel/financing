@@ -3,15 +3,15 @@ ticker: LIOC.N0000
 company: Lanka IOC PLC
 sector: Petroleum products (fuel retail, lubricants, bitumen, bunker/marine fuel, petrochemicals) — Indian Oil Corporation subsidiary, NOT Hayleys-linked
 type: listed subsidiary, 75.12% owned by Indian Oil Corporation Limited (India), 2002 incorporation, Colombo Stock Exchange
-position: none — research candidate, final and deliberately-last name in the ALUM→SINS→SERV→LIOC sequence — the control case
-verdict: WATCHLIST — floor 136.00, second tranche 122.50, ceiling 186.00 (re-derived under the new hurdle); last confirmed price 141.50 (04-Aug-2026), now only ~3.8% above the floor; no position
-floor: "136"
+position: 100 shares @ 131.50 executed, avg cost 132.97 — first tranche, bought below floor (136.00); second tranche (122.50) still available
+verdict: HOLD — first tranche taken 19-Sep-2026, 100 sh @ 131.50 (avg cost 132.97), ~3.3% below floor (136.00); floor 136.00, second tranche 122.50, ceiling 186.00
+floor: "136.00"
 second-tranche: 122.5
 ceiling: 186
-stop-level: n/a (no position)
-last-review: 2026-09-16
-source-docs: Lanka IOC PLC Annual Report 2025-26 (244pp, primary); Financial Statements for the Three Months Ended 30 June 2026 (unaudited, primary); Macro Dashboard hurdle re-anchor (CBSL Weekly Economic Indicators, secondary-market yield read 11-Sep-2026)
-next-trigger: "current LIOC quote — homework, price below is 43 days stale — plus Q2 FY26/27 interim (gross-margin recovery test), the next long-bond primary auction (to confirm the 11.96% secondary-market yield used in this re-derivation), and any change to the concessionary tax regime"
+stop-level: n/a (no stop-loss — floor is the sole downside mechanism; second tranche at 122.50 if thesis intact)
+last-review: 2026-09-19
+source-docs: Lanka IOC PLC Annual Report 2025-26 (244pp, primary); Financial Statements for the Three Months Ended 30 June 2026 (unaudited, primary); Macro Dashboard hurdle re-anchor (CBSL Weekly Economic Indicators, secondary-market yield read 11-Sep-2026); trade execution 19-Sep-2026
+next-trigger: "Q2 FY26/27 interim (gross-margin recovery test — the standing open fundamental question), the next long-bond primary auction (to confirm the 11.96% secondary-market yield this position's floor rests on), any change to the concessionary tax regime, and price vs. second tranche (122.50) / ceiling (186.00)"
 tags:
   - investing
   - cse
@@ -27,7 +27,7 @@ tags:
 # LIOC — Lanka IOC PLC — Research File
 
 > **Sources:** Annual Report 2025-26 (244pp, primary, year ended 31 March 2026) and Financial Statements for Q1 FY26/27 (three months ended 30 June 2026, primary), both read 04 Aug 2026. **This version re-derives §7's floor/ceiling under the hurdle rate re-anchored on 11-Sep-2026 (long T-bond secondary-market yield 12.6% → 11.96%, per CBSL Weekly Economic Indicators). No new fundamental data entered this file this update — the business picture in §§1–6 is unchanged from 04-Aug-2026. This is a valuation re-derivation exercise, not a quarterly review.**
-> **Position:** none. **This is still the deliberately-last file in the ALUM→SINS→SERV→LIOC sequence**, built to test whether the Hayleys-group premium is ownership-specific. That finding (§8) is unaffected by the hurdle move — LIOC was, and remains, the one name in the sequence sitting inside its own band rather than well above it. **What the hurdle move changes is precisely how close to the floor it now sits.**
+> **Position: 100 shares @ 131.50, avg cost 132.97 (first tranche, executed 19-Sep-2026, ~3.3% below the written floor).** This is still the deliberately-last file in the ALUM→SINS→SERV→LIOC sequence, built to test whether the Hayleys-group premium is ownership-specific. That finding (§8) is unaffected by the hurdle move — LIOC was, and remains, the one name in the sequence sitting inside its own band rather than well above it. **The trade itself resolves this file's own top-priority homework item (a current price check) — 131.50 is a real execution, not a stale investor-info print, and it landed the position below the floor rather than merely close to it.**
 
 ---
 
@@ -118,28 +118,37 @@ Every reasonable EPS assumption moves up by the same ~5.4% the hurdle-only re-de
 
 ---
 
-## 8. Market price and verdict — the control-case finding is unchanged, the margin to the floor is not
+## 8. Market price and verdict — position taken, control-case finding unchanged
 
-**Last confirmed price: Rs. 141.50 (30-Jun-2026, per the Q1 FY26/27 interim's own investor-information page).** This file has no more recent primary-sourced quote — flagged plainly as homework below, not papered over.
+**Trade executed 19-Sep-2026: 100 shares @ Rs. 131.50, avg cost Rs. 132.97 (the ~1.1% gap is transaction cost, not a second fill).** This is a genuinely current market print, superseding the 141.50 (30-Jun-2026) figure this file had been flagging as stale. **At 131.50, the price sits ~3.3% below the floor (136.00)** — the system's own buy rule ("buy only at or below the written floor") is satisfied with room to spare, not just approximately met.
 
-**At 141.50 against the re-derived band: ~3.8% above the new floor (136.00), ~24.1% below the new ceiling (186.00).** This is a materially different picture from the 04-Aug read (then: ~9.7% above the old floor of 129.00, ~19.6% below the old ceiling of 176.00) — **not because anything about LIOC changed, but because the risk-free comparator LIOC is being measured against got cheaper.** Every stock in the vault got a little more attractive on this basis; LIOC is simply the one name close enough to its own floor for the shift to matter in practice, exactly as flagged when this re-anchor was first logged.
+**At 131.50 against the re-derived band: ~3.3% below the floor, ~29.3% below the ceiling (186.00).** This is a materially better entry than the last read this file had (141.50, then ~3.8% *above* the floor) — the price moved down through the band between the 04-Aug/16-Sep reviews and this trade, rather than the floor moving down to meet it.
 
-**Trailing metrics at 141.50 on the (unchanged) 22.30 sustainable EPS:** P/E ≈ 6.35×, earnings yield ≈ 15.76% — versus the new 11.96% hurdle, a margin of ~3.8 points, *wider* than the ~3.2-point margin over the old 12.6% hurdle. The falling hurdle helps the earnings-yield read and the floor/ceiling band simultaneously, which is the correct, consistent behaviour for a mechanical rate-driven re-derivation.
+**Trailing metrics at 131.50 on the (unchanged) 22.30 sustainable EPS:** P/E ≈ 5.90×, earnings yield ≈ 16.96% — a ~5-point margin over the 11.96% hurdle, the widest earnings-yield cushion this file has recorded at any confirmed price.
 
-**This remains the cleanest result in the ALUM→SINS→SERV→LIOC sequence** — LIOC is still the only name trading inside its own band rather than well above it, and the hurdle move doesn't touch that finding. What it changes is urgency: **LIOC is now the closest any name in this vault has come to a written floor**, close enough that a genuinely current price check is the single most value-dense piece of homework in the whole vault right now.
+**This remains the cleanest result in the ALUM→SINS→SERV→LIOC sequence** — LIOC is still the only name that ever traded inside its own band rather than well above it, and it's now the only name in that sequence with an actual position taken, at a genuine discount to the floor rather than merely close to it.
 
-**Verdict: WATCHLIST. No position — no order without a current price check first.** Per this file's own knife-check discipline, if the current quote is confirmed at or below Rs. 136.00, verify no adverse disclosure before doing anything, then treat per the standing buy rules — this is not yet a mechanical signal off a 43-day-stale price.
+**Verdict: HOLD.** First tranche taken. Per the standing buy rules (max two tranches: floor, floor −10%), **the second tranche (122.50) remains available** if price falls further and the thesis stays intact — not a target to chase, just the pre-written next level. **Sell rules stay the four-item list only:** thesis broken by a named trigger (gross-margin compression failing to recover past a second consecutive quarter, an adverse tax-regime change, a CPSTL disruption), ceiling reached (186.00), a demonstrably better opportunity, or a genuine cash need. Price falling further, on its own, is not one of them — it's what the second tranche exists for.
 
 **What would raise the ceiling:** Q2 FY26/27 confirming gross margin recovers toward FY24-26's 8-9% norm; greater clarity on the remaining tax-concession runway; a genuine down-cycle test of the 3-year "normal" EPS window.
-**What would lower the floor:** gross margin compression persisting into a second consecutive quarter; any adverse change to the concessionary tax regime; a material CPSTL-related governance or dividend-flow disruption.
-**What would move this whole re-derivation:** the next long-bond primary auction confirming, contradicting, or further moving the 11.96% secondary-market read this file is currently built on.
+**What would lower the floor / break the thesis:** gross margin compression persisting into a second consecutive quarter; any adverse change to the concessionary tax regime; a material CPSTL-related governance or dividend-flow disruption.
+**What would move this whole re-derivation:** the next long-bond primary auction confirming, contradicting, or further moving the 11.96% secondary-market read this position's floor rests on — if it prints materially above 11.96%, the floor this trade was measured against moves down, and the position needs re-checking against the revised number, not the one it was bought under.
+
+---
+
+## Decision Journal
+
+| Date | Event | Action |
+|---|---|---|
+| (07-2026 → 09-2026) | File built, then hurdle-rate re-derived (12.6%→11.96%) — floor 129.00→136.00, ceiling 176.00→186.00 | WATCHLIST, no position |
+| **2026-09-19** | **First tranche: 100 shares @ 131.50, avg cost 132.97 — ~3.3% below the written floor (136.00).** Resolves the file's own standing "stale price" homework item via a real fill rather than a market-data check. | **HOLD — first tranche taken. Second tranche (122.50) available; ceiling 186.00.** |
 
 ---
 
 ## Open homework
 
-1. **Current LIOC quote — now the top-priority item in this file, not a routine check.** The last confirmed price (141.50) is from 30-Jun-2026; at the new floor (136.00) a modest further move either direction changes this from "watchlist, close to floor" to "at or through the floor."
-2. **Q2 FY26/27 interim — the decisive test on gross margin**, unchanged from the original file.
+1. ~~Current LIOC quote~~ — **resolved via trade execution**: 131.50, 19-Sep-2026.
+2. **Q2 FY26/27 interim — the decisive test on gross margin**, now the single most important open item with a position actually on the line.
 3. Volume vs. price decomposition of the Q1 FY26/27 revenue surge — still not disclosed.
 4. Remaining tenor/terms of the concessionary 15% statutory tax base — still not fully disclosed.
 5. Whether CPSTL's own dividend policy or fair-value trajectory has any read-through to LIOC's own cash generation.
@@ -153,6 +162,7 @@ Every reasonable EPS assumption moves up by the same ~5.4% the hurdle-only re-de
 
 | Date | Event | Action |
 |---|---|---|
+| 2026-09-19 | **Position opened.** First tranche: 100 shares @ Rs. 131.50, avg cost Rs. 132.97 — ~3.3% below the re-derived floor (136.00), the first genuine below-floor confirmed price this file has recorded (the prior reads, 141.50 and the original 129.00-floor-era prices, both sat above their contemporary floors). Second tranche (122.50) remains available under the standing max-two-tranche rule. Sell rules unchanged: thesis-break, ceiling (186.00), better opportunity, or cash need — price alone is never one of them. | HOLD — first tranche taken, no position previously. |
 | 2026-09-16 | **Hurdle-rate re-derivation (no new fundamental data).** Long T-bond secondary-market yield re-anchored 12.6%→11.96% (CBSL, 11-Sep-2026), neutral P/E 7.9×→8.36×. Re-derived (not mechanically scaled) by holding the same proportional risk-haircut (73.1% retention of neutral) that produced the original 5.8× floor multiple, applied to the new neutral: floor multiple 6.11×. **Floor 129.00→136.00, second tranche →122.50, ceiling 176.00→186.00.** Sustainable EPS held at 22.30 — no new data this update. At the last confirmed price (141.50, now six weeks stale), the margin above the floor narrowed from ~9.7% to ~3.8% — flagged as the top-priority price-check item in the vault, not a routine homework line. The control-case finding (LIOC alone sits inside its own band, unlike every Hayleys-linked name) is unaffected by this re-derivation. | WATCHLIST, no position — current-price check now urgent. |
 | 2026-08-04 | **File created from Annual Report 2025-26 + Q1 FY26/27 interim (both primary) — the deliberate, final control case for the Hayleys-group premium hypothesis.** Five-year EPS range (9.05 to 70.79) flagged FY2022-23 as an unrepeatable windfall year, excluded from the sustainable-EPS base. Sustainable EPS ≈22.30 (3-yr average, ex-windfall, ex-crisis). Floor 129.00 / ceiling 176.00 derived — last traded 141.50 sits INSIDE the band, the first name in this entire sequence to do so. Balance sheet (2% debt/equity, 26× interest cover, Rs.59bn investment book) is the strongest of any file in this vault. Q1 FY26/27 shows a genuinely mixed quarter: gross margin compressed sharply (7.7%→4.1%) but PAT still rose 52% on opex discipline, treasury income, and a lower effective tax rate. | WATCHLIST, no position — closest to its own floor of any name researched so far, but not yet there. |
 
