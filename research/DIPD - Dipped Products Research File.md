@@ -4,11 +4,12 @@ company: Dipped Products PLC
 sector: Hand Protection (rubber gloves) + Plantations — Hayleys Group subsidiary
 type: listed subsidiary, 55.78% owned by Hayleys PLC, 1976 incorporation, Colombo Stock Exchange
 position: none — research candidate, 2nd of HAYL → DIPD → HAYC → KHL sequence
-verdict: WATCHLIST — floor 36, ceiling 45-46 (unchanged), confirmed market price 58.50 (~29% above ceiling); no position
-floor: "36"
-ceiling: 45-46
+verdict: "WATCHLIST — floor 37.25, second tranche 33.50, ceiling 47.50-47.75 (re-derived for the 12.17% hurdle, 13-Oct-2026); last confirmed price 58.50 (30-Jun-2026), ~23% above ceiling; no position"
+floor: "37.25"
+second-tranche: "33.50"
+ceiling: 47.50-47.75
 stop-level: n/a (no position)
-last-review: 2026-08-13
+last-review: 2026-10-13
 source-docs: Interim Report for the Year Ended 31 March 2026 (unaudited, Group + Company); **Interim Report for the Quarter Ended 30 June 2026 (unaudited, Group + Company) — primary, board-approved 11 Aug 2026**
 next-trigger: Q2 FY26/27 (does finance-cost growth stay near +48% YoY, or ease — the confirmed debt-lag risk needs a second data point) + Annual Report (multi-year EPS series, still missing)
 tags:
@@ -119,7 +120,9 @@ The company's own annualised P/E (7.10×, using this quarter's EPS × 4 = 8.24 a
 
 ## 6. Valuation — hurdle method, levels held
 
-**Hurdle:** long T-bond ≈12.6% → neutral P/E ≈ **7.9×**, unchanged.
+**Hurdle (re-derived 13-Oct-2026):** long T-bond (2037A) secondary-market midpoint 12.17% (CBSL, 25-Sep-2026, provisional until the next primary auction) → neutral P/E ≈ **8.22×**. The Aug-13 text below was written at 12.6% / 7.9×.
+
+**Re-derivation (proportional retention, not mechanical scaling):** the original floor multiple 6.2× was 78.5% of the 7.9× neutral — i.e. the named risks (debt lag, Plantations drag, thin EPS history) were priced as a ~21.5% haircut. Hold that haircut and reapply to 8.22×: floor multiple = 6.45×. Sustainable EPS unchanged at 5.80 (no annual report yet; Q1 run-rate not adopted). **Floor = 5.80 × 6.45 = 37.40 → 37.25. Second tranche = floor × 0.90 = 33.66 → 33.50 (newly stated). Ceiling = 5.80 ÷ 0.1217 = 47.66 → 47.50–47.75.** Old band 36 / 45–46 → new 37.25 / 47.50–47.75. At 58.50: ~57% above floor, ~23% above ceiling (was ~29%). Katunayake plant (13-Oct) did not alter any input.
 
 **Sustainable EPS — still the file's stated weak point, and this quarter doesn't resolve it.** The original file's estimate (Rs. 5.80, a two-point average of adjusted FY25 and FY26 EPS) is explicitly provisional pending the annual report. Q1 FY27's annualised run-rate (2.06 × 4 ≈ 8.24) sits well above that estimate — but **one strong quarter, with no seasonality history to check it against and with finance costs simultaneously accelerating, is not grounds to revise a sustainable-earnings estimate**, per the same standing rule SINS's and HAYL's files apply to single-quarter outliers in either direction. **Sustainable EPS held at Rs. 5.80, provisional, pending the annual report.**
 
@@ -147,6 +150,8 @@ The company's own annualised P/E (7.10×, using this quarter's EPS × 4 = 8.24 a
 3. Confirm whether the Rs. 2.85bn "other non-current financial assets" build (flat this quarter, up 6.3× YoY) is genuinely T-bond-based treasury income, consistent with the macro thesis — still open.
 4. Reconcile this file's Group segment PBT against HAYL's Hand Protection segment PBT once HAYL's next interim is current — first-pass FY26 reconciliation flagged a gap not yet explained.
 5. **New: the short-term-vs-long-term borrowing mix shift this quarter (§4)** — worth a second data point in Q2 before naming it as a standing risk.
+6. **Katunayake plant (13-Oct-2026):** how much of the Rs. 4.2bn is already spent and capitalised, how it was funded (debt vs internal), nameplate capacity, ramp timetable, and whether interest capitalisation ends at commissioning. Answer from Q2 FY26/27 notes and the annual report.
+7. ~~Hurdle re-derivation to 12.17% / 8.22×~~ — done 13-Oct-2026 (§6).
 
 ---
 
@@ -156,6 +161,8 @@ The company's own annualised P/E (7.10×, using this quarter's EPS × 4 = 8.24 a
 
 | Date | Event | Action |
 |---|---|---|
+| 2026-10-13 | **Hurdle re-derivation to 12.17% / 8.22×** (proportional-retention method, same as LIOC/HAYC/HAYL/UAL/JINS): floor 36→37.25, second tranche (new) 33.50, ceiling 45–46→47.50–47.75; sustainable EPS 5.80 held. No new fundamental data. | WATCHLIST, no position. |
+| 2026-10-13 | **CSE corporate disclosure (letter dated 12-Oct-2026): new manufacturing facility in the Katunayake Export Processing Zone commenced operations 8-Oct-2026, investment Rs. 4.2bn, to add value-added glove export capacity.** No capacity, revenue, margin or funding-mix figures disclosed. Scale: ≈11% of Group PP&E (Rs. 37.2bn), ≈9% of equity (Rs. 44.7bn), ≈24% of Q1 total debt (Rs. 17.4bn). Most of the spend is probably already in the Q1 balance sheet (Q1 capex Rs. 2.37bn, PP&E +20% YoY) — inferred, not disclosed. Start-up falls in Q3 FY26/27 (Oct–Dec), not Q2. Read: capacity news, not an earnings-base change — sustainable EPS (5.80) stays provisional; the confirmed debt-lag risk is now followed by depreciation and lost interest capitalisation before volume ramps (hypothesis). Levels not moved by the plant news (no trigger fired; a plant start-up is not a confirmed EPS shift) — separately re-derived for the hurdle, see the row above. | WATCHLIST, no position. |
 | 2026-08-13 | **Q1 FY26/27 interim read (quarter ended 30 June 2026).** Confirmed via footnote structure: Group figures unaffected by the DPL Premier Gloves amalgamation artefact (only Company distorted), consistent with the original file's methodology. Group revenue +12%, gross margin +1.6pt, PAT +35%, EPS +40% — a genuinely strong quarter, led by Hand Protection (+21% revenue, +34.5% PBT); Plantations continued contracting (−3.5% revenue, −10.2% PBT), as already priced. **The file's central named risk — FY27 carrying a full year of interest on FY26's debt build — confirmed live**: finance costs +48% YoY, total debt +17% in a single quarter (Rs. 14.90bn → 17.44bn), debt/equity 34.2%→39.0%. Effective tax rate improved (29.3%→25.3%), a genuine positive. Market price resolved via the interim's own investor-info page: Rs. 58.50 (30-Jun-2026), superseding the prior TradingView read. Floor 36 / ceiling 45–46 held unchanged — a risk confirming itself as predicted doesn't loosen or tighten a multiple that already priced it in; sustainable EPS (5.80) also held, pending the still-missing annual report. | WATCHLIST confirmed, no position. |
 | 2026-07-19 | Market price resolved: TradingView (56.50) and stockanalysis.com mcap back-calc (≈55.6) converge, independent of the noisy aggregator spread flagged below. Confirmed ~23% above ceiling, ~57% above floor. Trailing e/y ~10.4% — already below the 12.6% hurdle before any risk adjustment. | WATCHLIST confirmed, no position. |
 | 2026-07-19 | **File rebuilt to conform to the established format** (was previously written to an invented template — no hurdle-method language, no falsifiers, no thesis log). Floor 36 / ceiling 45–46 derived from Interim Report FY26. Recurring DIPD price-data-quality problem (first flagged in HAYL's file) reproduced independently this session. | WATCHLIST, no position. |
