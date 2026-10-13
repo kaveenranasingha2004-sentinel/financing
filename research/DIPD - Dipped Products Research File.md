@@ -11,6 +11,7 @@ ceiling: 47.50-47.75
 stop-level: n/a (no position)
 last-review: 2026-10-13
 source-docs: Interim Report for the Year Ended 31 March 2026 (unaudited, Group + Company); **Interim Report for the Quarter Ended 30 June 2026 (unaudited, Group + Company) — primary, board-approved 11 Aug 2026**
+forward-case: "Layer 6 (13-Oct-2026): Katunayake plant at stage 50% — ceiling-equivalent 47.7 / 49.4 / 50.9 (low/base/high); label only, moves no level"
 next-trigger: Q2 FY26/27 (does finance-cost growth stay near +48% YoY, or ease — the confirmed debt-lag risk needs a second data point) + Annual Report (multi-year EPS series, still missing)
 tags:
   - investing
@@ -143,6 +144,18 @@ The company's own annualised P/E (7.10×, using this quarter's EPS × 4 = 8.24 a
 
 ---
 
+## 7a. Forward developments and pattern test (Layer 6, 13-Oct-2026)
+
+*Forward case is not a trading level and moves no floor or ceiling. Full method in "Layer 6 - Forward Developments and Pattern Overlay.md".*
+
+**Market-implied EPS:** 58.50 × 0.1217 = **Rs. 7.12**. Q1 FY26/27 annualised EPS is 8.24; with Q1 finance income (Rs. 593.9mn, +109% YoY) normalised to last year's level, annualised EPS ≈ **6.93** → 8.22 × 6.93 ≈ 56.9, within ~3% of the price. **The premium to the Layer 4 ceiling (~23%) is almost entirely the market capitalising the Q1 run-rate**, not an unexplained group premium. On Q1 annualised, DIPD is 7.1× — the cheapest Hayleys-group name tested (HAYC 11.8×, HAYL 13.0×). Whether Q1 is a durable base (it is one quarter, with finance income at a peak and no seasonality history) remains the open question and is settled by the annual report.
+
+**Forward register — Katunayake plant (Rs. 4.2bn, started 8-Oct-2026): stage "commissioned", weight 50%.** Incremental EPS low 0.00 / base +0.42 / high +0.79 (return on the Rs. 4.2bn of 0% / 8% / 15% pre-tax, 25% tax, 598.7mn shares). Forward-case ceiling at 50% weight: **47.7 / 49.4 / 50.9** against the Layer 4 ceiling 47.50–47.75. Does not bridge to 58.50. Falsifier: Q3 FY26/27 Hand Protection PBT margin flat or down while depreciation and finance cost rise.
+
+**Pattern entries:** P1 (Hayleys-group premium: hypothesis, DIPD does not show it on the run-rate basis) and P2 (DIPD cheapest on market-implied EPS: hypothesis, falsified if Q2 finance costs outrun +48% or Plantations PBT falls past −10%). Review at the Q2 FY26/27 interim.
+
+---
+
 ## Open homework
 
 1. **Annual report (FY2021–2025) for a real multi-year EPS series** — still the single biggest gap in this file, and now more consequential given Q1 FY27's outlier-strong print needs a real base to be judged against.
@@ -161,6 +174,7 @@ The company's own annualised P/E (7.10×, using this quarter's EPS × 4 = 8.24 a
 
 | Date | Event | Action |
 |---|---|---|
+| 2026-10-13 | **Layer 6 first application (forward case + pattern test).** Market-implied EPS 7.12 ≈ Q1 run-rate with finance income normalised (6.93): DIPD's ~23% premium to ceiling is the market pricing the Q1 run-rate, not an unexplained Hayleys-group premium; DIPD is the cheapest of DIPD/HAYC/HAYL on Q1-annualised P/E (7.1× vs 11.8× / 13.0×). Katunayake forward-case ceiling 47.7 / 49.4 / 50.9 (stage 50%) — does not bridge to 58.50. No level changed. | WATCHLIST, no position. |
 | 2026-10-13 | **Hurdle re-derivation to 12.17% / 8.22×** (proportional-retention method, same as LIOC/HAYC/HAYL/UAL/JINS): floor 36→37.25, second tranche (new) 33.50, ceiling 45–46→47.50–47.75; sustainable EPS 5.80 held. No new fundamental data. | WATCHLIST, no position. |
 | 2026-10-13 | **CSE corporate disclosure (letter dated 12-Oct-2026): new manufacturing facility in the Katunayake Export Processing Zone commenced operations 8-Oct-2026, investment Rs. 4.2bn, to add value-added glove export capacity.** No capacity, revenue, margin or funding-mix figures disclosed. Scale: ≈11% of Group PP&E (Rs. 37.2bn), ≈9% of equity (Rs. 44.7bn), ≈24% of Q1 total debt (Rs. 17.4bn). Most of the spend is probably already in the Q1 balance sheet (Q1 capex Rs. 2.37bn, PP&E +20% YoY) — inferred, not disclosed. Start-up falls in Q3 FY26/27 (Oct–Dec), not Q2. Read: capacity news, not an earnings-base change — sustainable EPS (5.80) stays provisional; the confirmed debt-lag risk is now followed by depreciation and lost interest capitalisation before volume ramps (hypothesis). Levels not moved by the plant news (no trigger fired; a plant start-up is not a confirmed EPS shift) — separately re-derived for the hurdle, see the row above. | WATCHLIST, no position. |
 | 2026-08-13 | **Q1 FY26/27 interim read (quarter ended 30 June 2026).** Confirmed via footnote structure: Group figures unaffected by the DPL Premier Gloves amalgamation artefact (only Company distorted), consistent with the original file's methodology. Group revenue +12%, gross margin +1.6pt, PAT +35%, EPS +40% — a genuinely strong quarter, led by Hand Protection (+21% revenue, +34.5% PBT); Plantations continued contracting (−3.5% revenue, −10.2% PBT), as already priced. **The file's central named risk — FY27 carrying a full year of interest on FY26's debt build — confirmed live**: finance costs +48% YoY, total debt +17% in a single quarter (Rs. 14.90bn → 17.44bn), debt/equity 34.2%→39.0%. Effective tax rate improved (29.3%→25.3%), a genuine positive. Market price resolved via the interim's own investor-info page: Rs. 58.50 (30-Jun-2026), superseding the prior TradingView read. Floor 36 / ceiling 45–46 held unchanged — a risk confirming itself as predicted doesn't loosen or tighten a multiple that already priced it in; sustainable EPS (5.80) also held, pending the still-missing annual report. | WATCHLIST confirmed, no position. |
